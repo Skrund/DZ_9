@@ -1,0 +1,15 @@
+E:\DZ_SEMINAR_9\DZ_68\bin\Debug\net6.0\DZ_68.exe
+E:\DZ_SEMINAR_9\DZ_68\bin\Debug\net6.0\DZ_68.deps.json
+E:\DZ_SEMINAR_9\DZ_68\bin\Debug\net6.0\DZ_68.runtimeconfig.json
+E:\DZ_SEMINAR_9\DZ_68\bin\Debug\net6.0\DZ_68.dll
+E:\DZ_SEMINAR_9\DZ_68\bin\Debug\net6.0\DZ_68.pdb
+E:\DZ_SEMINAR_9\DZ_68\obj\Debug\net6.0\DZ_68.csproj.AssemblyReference.cache
+E:\DZ_SEMINAR_9\DZ_68\obj\Debug\net6.0\DZ_68.GeneratedMSBuildEditorConfig.editorconfig
+E:\DZ_SEMINAR_9\DZ_68\obj\Debug\net6.0\DZ_68.AssemblyInfoInputs.cache
+E:\DZ_SEMINAR_9\DZ_68\obj\Debug\net6.0\DZ_68.AssemblyInfo.cs
+E:\DZ_SEMINAR_9\DZ_68\obj\Debug\net6.0\DZ_68.csproj.CoreCompileInputs.cache
+E:\DZ_SEMINAR_9\DZ_68\obj\Debug\net6.0\DZ_68.dll
+E:\DZ_SEMINAR_9\DZ_68\obj\Debug\net6.0\refint\DZ_68.dll
+E:\DZ_SEMINAR_9\DZ_68\obj\Debug\net6.0\DZ_68.pdb
+E:\DZ_SEMINAR_9\DZ_68\obj\Debug\net6.0\DZ_68.genruntimeconfig.cache
+E:\DZ_SEMINAR_9\DZ_68\obj\Debug\net6.0\ref\DZ_68.dll
